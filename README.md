@@ -1,5 +1,6 @@
 # Filter Lab
 
+
 ## Problem Statement
 
 The `filter` method is one of the core iterator methods in JavaScript. It's a powerful
